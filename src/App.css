@@ -1,0 +1,26 @@
+.page-container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap{
+  flex: 1;
+}
+.fixed-action-btn{
+  display: flex;
+  min-height: 18vh;
+}
+.nav-wrapper{
+  margin-left: 1px;
+  margin-right: 1px ;
+}
+.k{
+  margin-right: 5px;
+}
+.G{
+  margin-right: 15px;
+}
+.card{
+  margin-top: 70px;
+}
